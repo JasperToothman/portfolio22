@@ -3,7 +3,6 @@
 body {
 	margin: 0 auto;
 }
-<!-- Outide of the sight -->
 .homePage {
 	background: #c29b6c;
 }
@@ -22,7 +21,6 @@ body {
 	
 }
 .nav {
-	<!-- header above -->
 	background: #586c84;
 	margin: 0px;
 	padding: 5;
@@ -32,7 +30,6 @@ body {
 	text-align: center;
 }
 .content {
-	<!-- Text Box -->
 	background: #c6b495;
 	margin: 0px;
 	float: left;
@@ -41,7 +38,6 @@ body {
 	text-align: center;
 }
 .footer {
-	<!-- header below -->
 	background: #2c4255;
 	margin: 0px;
 	float: left;
