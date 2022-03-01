@@ -44,3 +44,18 @@ body {
 	height: 50px;
 	text-align: center;
 }
+body {
+     font-family: cursive;
+     background-color: #B37C12;
+     color: #FFC24D;
+}
+
+a:link {
+     color: #245FB3;
+}
+a:visited {
+     color: #66A6FF;
+}
+a:hover, a:active, a:focus { 
+     text-decoration: underline;
+}
